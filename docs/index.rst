@@ -3,7 +3,7 @@ How to Log In Xfinity Online Easily? 🌐🔐
 
 Being able to access your **Xfinity login online** is essential to manage your services, monitor billing, stream entertainment, and troubleshoot technical issues. Whether you are a new customer or a returning one, knowing how to **log in Xfinity online easily** will help you stay connected without frustration. 🛜📲
 
-.. image:: start.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
